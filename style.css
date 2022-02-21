@@ -1,0 +1,45 @@
+a {
+	color: #0000ff;
+	padding-left: 35%;
+	font-size: 18px;
+	font-family: monospace;
+}
+
+pre {
+	font-size: 18px;
+	padding-left: 35%;
+	padding-right: 35%;
+}
+
+img {
+	padding-left: 50%
+}
+
+p {
+	font-size: 18px;
+	padding-left: 35%;
+	padding-right: 35%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: monospace;
+}
+
+h1 {
+	font-family: monospace;
+	text-align: center;
+}
+
+h2 {
+	font-family: monospace;
+	text-align: center;
+}
+
+h3 {
+	font-family: monospace;
+	text-align: center;
+}
+
+h4 {
+	font-family: monospace;
+	text-align: center;
+}
